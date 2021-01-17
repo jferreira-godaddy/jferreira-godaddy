@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Johnylab/Johnylab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,6 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=Johnylab&show_icons=true&count_private=true)
+- Web and mobile developer since 2007.
+- I have a deep knowledge of Javascript and ReactJS / React Native, and also experience in .NET development. I am self-taught, I like to solve problems and take responsibility.
+- I'm looking for web and mobile development with modern tools and agile culture.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Johnylab&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=Johnylab&show_icons=true&count_private=true&theme=merko)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Johnylab&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
