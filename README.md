@@ -1,5 +1,28 @@
-- 🔭 I am web and mobile developer since 2007.
-- 🌱 I have deep knowledge of Javascript, ReactJS, React Native, .NET.
-- 👯 I’m looking to collaborate on web and mobile development with modern tools and agile culture.
+# Hello there! I'm João Ferreira. Brazilian, married, father of two, and a software engineer since 2003.
+
+## Tech Expertise
+
+- Software engineer since 2003.
+- Advanced in Vanilla Javascript, with a focus on React JS/Native.
+- Experience in .Net and Java.
+- Problem-solving enthusiast, team player, and responsibility taker.
+
+## Professional Identity
+
+- Frontend Engineer.
+- Currently considering new opportunities to contribute and grow.
+
+## Career Summary
+
+- Frontend Engineer at Ender (August 2022 - December 2023)
+- Senior Full Stack Engineer at FourSquare (March 2021 - July 2022)
+- Frontend Web and Mobile Leader at Webnets Soluções (September 2017 - September 2020)
+- Full Stack Engineer at Colégio Objetivo Baixada Santista (March 2010 - September 2017)
+- Web Designer at Fundação Lusíada (June 2008 - March 2010)
+- Web Designer and Computing Teacher at Escola Aprendiz (February 2007 - November 2007)
+
+[Home Page and Blog](https://johnylab.com.br)
+
+[Linkedin Profile](https://www.linkedin.com/in/johnylab/)
 
 ![Johnylab’s github stats](https://github-readme-stats.vercel.app/api?username=Johnylab&show_icons=true&count_private=true&theme=merko) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Johnylab&layout=compact&theme=merko)
