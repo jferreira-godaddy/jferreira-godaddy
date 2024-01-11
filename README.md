@@ -1,4 +1,6 @@
-# Hello there! I'm João Ferreira. Brazilian, married, father of two, and a software engineer since 2003.
+# Hello there! I'm João Ferreira
+
+Brazilian, married, father of two, and a software engineer since 2003.
 
 ## Tech Expertise
 
