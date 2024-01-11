@@ -2,7 +2,8 @@
 
 Brazilian, married, father of two, and a software engineer since 2003.
 
-[Home Page and Blog](https://johnylab.com.br) [Linkedin Profile](https://www.linkedin.com/in/johnylab/)
+- [Home Page and Blog](https://johnylab.com.br)
+- [Linkedin Profile](https://www.linkedin.com/in/johnylab/)
 
 ## Tech Expertise
 
